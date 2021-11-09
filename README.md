@@ -25,7 +25,7 @@ This data was prepared by first previewing all the provided data tables. Tables 
 
 ### Genre vs. Total Gross
 
-<img src=".images/gross_genre.png" width =100%>
+<img src="./images/gross_genre.png" width =100%>
 
 Genre vs. Total Gross shows that Adventure, Sci-Fi, Animation, Action, and Fantasy are the highest grossed genres.
 Recommendation: Making these types of movies will be popular among consumers
