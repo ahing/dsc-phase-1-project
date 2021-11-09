@@ -22,15 +22,6 @@ This data was prepared by first previewing all the provided data tables. Tables 
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
-3 questions 
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
-Here is an example of how to embed images from your sub-folder:
 
 ### Genre vs. Total Gross
 
