@@ -62,7 +62,7 @@ For any additional questions, please contact **Alec & ahing619@gmail.com**
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
+
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
